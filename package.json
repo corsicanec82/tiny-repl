@@ -1,0 +1,26 @@
+{
+  "name": "tiny-repl",
+  "version": "0.1.0",
+  "description": "tiny repl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corsicanec82/tiny-repl.git"
+  },
+  "keywords": [
+    "tiny",
+    "simple",
+    "repl",
+    "nodejs",
+    "php"
+  ],
+  "author": "Stanislav Dzisiak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corsicanec82/tiny-repl/issues"
+  },
+  "homepage": "https://github.com/corsicanec82/tiny-repl#readme"
+}
