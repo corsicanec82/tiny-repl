@@ -22,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/corsicanec82/tiny-repl/issues"
   },
-  "homepage": "https://github.com/corsicanec82/tiny-repl#readme"
+  "homepage": "https://github.com/corsicanec82/tiny-repl#readme",
+  "dependencies": {
+    "fastify": "^2.13.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.5",
+    "nodemon": "^2.0.3"
+  }
 }
