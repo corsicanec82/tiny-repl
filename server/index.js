@@ -19,7 +19,7 @@ export default () => {
       assetPath: (filename) => `/assets/${filename}`,
     },
   });
-
+console.log(__dirname);
   app.register(fastifyStatic, {
     root: path.join(__dirname, '..', 'dist', 'public'),
     prefix: '/assets/',
