@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/corsicanec82/tiny-repl#readme",
   "dependencies": {
-    "codemirror": "^5.52.2",
+    "codemirror": "^5.58.2",
     "fastify": "^2.13.0",
     "fastify-static": "^2.6.0",
     "point-of-view": "^3.8.0",
